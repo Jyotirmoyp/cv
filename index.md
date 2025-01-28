@@ -75,8 +75,7 @@ Amount: $350
 1. American Geophysical Union student travel grant
 Amount: $1000
 
-2. Augmenting Writing Skills for Articulating Research, Department of Sci-
-ence and Technology, Govt. of India
+2. Augmenting Writing Skills for Articulating Research, Department of Science and Technology, Govt. of India
 Amount $150 USD
 
 3. Tata Trust Grant to attend American Geophysical Union Fall Meeting,
@@ -112,6 +111,11 @@ India, for being top 1% students in high school board exam
 Amount $4200
 
 ## Academic Achievements 
+
+### 
+
+Obtained highest grade in PhD course work (7.1/8) at Centre for Earth Sciences, Indian
+Institute of Science, 2015 academic year
 
 
 ## Publications
