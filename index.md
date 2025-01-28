@@ -208,7 +208,7 @@ Research Stay: Indian Institute of Technology, Bombay
 
 *corresponding author
 
-[8] J.Paul*, A. Spang, A. Piccolo. Hydration weakening and destruction of the North China Craton,
+[8] *J.Paul*, A. Spang, A. Piccolo. Hydration weakening and destruction of the North China Craton,
 Tectonophysics (under review)
 
 [7] J. Paul*, G. Golabek, A. Rozel, P. Tackley, T. Katsura, H. Fei, 2024. Insignificant effect of
