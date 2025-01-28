@@ -16,7 +16,7 @@ Centre for Planetary Habitability, University of Oslo.
 
 ## Research interests
 
-__Geodynamics__
+__Geodynamics_
 
 
 ## Appointments
