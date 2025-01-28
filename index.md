@@ -50,10 +50,68 @@ __Javapur University__
 
 `2023-2027`
 Marie Sklodowska–Curie fellowship
+
 Amount: €210,911.04
 
-Associate, *French Academy of Science*, Paris, France
+`2022`
+University of Bayreuth independent research travel grant
 
+Amount: €1500
+
+`2021`
+1. American Geophysical Union student travel grant
+Amount: $ 1000
+
+2. Selected for Roland Schlich travel grant for early career scientists by
+European Geoscience Union, (Carried forward to vEGU21 registration
+wavier)
+
+`2020`
+Support Under Special Registration Program (SRSP) in the 36 th Inter-
+national Geological Congress, New Delhi
+Amount: $350
+
+`2019`
+1. American Geophysical Union student travel grant
+Amount: $1000
+
+2. Augmenting Writing Skills for Articulating Research, Department of Sci-
+ence and Technology, Govt. of India
+Amount $150 USD
+
+3. Tata Trust Grant to attend American Geophysical Union Fall Meeting,
+San Francisco
+Amount: $2000
+
+`2018`
+1. Roland Schlich travel grant for early career scientists by European Geoscience Union
+Amount: €700
+
+2. American Geophysical Union student travel grant
+Amount:$1000
+
+`2017-2020`
+Senior Research Fellow, Indian Institute of Science, Bangalore
+
+`2015-2017`
+Junior Research Fellow, Indian Institute of Science, Bangalore
+
+`2014`
+1. Best poster presentation, 3 rd Young Earth Scientists (YES) Congress,
+Dar Es Salaam
+
+2. Travel grant from International Association of Mathematical Geosciences
+Amount: $1000
+
+3. YES Network conference grant
+Amount: $500
+
+`2010-2015`
+INSPIRE Scholarship, Department of Science and Technology, Govt. of
+India, for being top 1% students in high school board exam
+Amount $4200
+
+## Academic Achievements 
 
 
 ## Publications
