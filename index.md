@@ -49,73 +49,73 @@ __Javapur University__
 ## Awards
 
 `2023-2027`
-Marie Sklodowska–Curie fellowship
+• Marie Sklodowska–Curie fellowship
 
 Amount: €210,911.04
 
 `2022`
-University of Bayreuth independent research travel grant
+• University of Bayreuth independent research travel grant
 
 Amount: €1500
 
 `2021`
-1. American Geophysical Union student travel grant
+• American Geophysical Union student travel grant
 Amount: $ 1000
 
-2. Selected for Roland Schlich travel grant for early career scientists by
+• Selected for Roland Schlich travel grant for early career scientists by
 European Geoscience Union, (Carried forward to vEGU21 registration
 wavier)
 
 `2020`
-Support Under Special Registration Program (SRSP) in the 36 th Inter-
+• Support Under Special Registration Program (SRSP) in the 36 th Inter-
 national Geological Congress, New Delhi
 Amount: $350
 
 `2019`
-1. American Geophysical Union student travel grant
+• American Geophysical Union student travel grant
 Amount: $1000
 
-2. Augmenting Writing Skills for Articulating Research, Department of Science and Technology, Govt. of India
+• Augmenting Writing Skills for Articulating Research, Department of Science and Technology, Govt. of India
 Amount $150 USD
 
-3. Tata Trust Grant to attend American Geophysical Union Fall Meeting,
+• Tata Trust Grant to attend American Geophysical Union Fall Meeting,
 San Francisco
 Amount: $2000
 
 `2018`
-1. Roland Schlich travel grant for early career scientists by European Geoscience Union
+• Roland Schlich travel grant for early career scientists by European Geoscience Union
 Amount: €700
 
-2. American Geophysical Union student travel grant
+• American Geophysical Union student travel grant
 Amount:$1000
 
 `2017-2020`
-Senior Research Fellow, Indian Institute of Science, Bangalore
+• Senior Research Fellow, Indian Institute of Science, Bangalore
 
 `2015-2017`
-Junior Research Fellow, Indian Institute of Science, Bangalore
+• Junior Research Fellow, Indian Institute of Science, Bangalore
 
 `2014`
-1. Best poster presentation, 3 rd Young Earth Scientists (YES) Congress,
+• Best poster presentation, 3 rd Young Earth Scientists (YES) Congress,
 Dar Es Salaam
 
-2. Travel grant from International Association of Mathematical Geosciences
+• Travel grant from International Association of Mathematical Geosciences
 Amount: $1000
 
-3. YES Network conference grant
+• YES Network conference grant
 Amount: $500
 
 `2010-2015`
-INSPIRE Scholarship, Department of Science and Technology, Govt. of
+• INSPIRE Scholarship, Department of Science and Technology, Govt. of
 India, for being top 1% students in high school board exam
 Amount $4200
 
 ## Academic Achievements 
 
-Obtained highest grade in PhD course work (7.1/8) at Centre for Earth Sciences, Indian
+• Obtained highest grade in PhD course work (7.1/8) at Centre for Earth Sciences, Indian
 Institute of Science, 2015 academic year
 
-Obtained second highest marks in Postgraduate batch (82.25%) at Department of Ge-
+• Obtained second highest marks in Postgraduate batch (82.25%) at Department of Ge-
 ological sciences, Jadavpur University, 2013- 2015 academic year
 
 • Obtained Third highest marks in Undergraduate Batch (81.7%) at Department of Ge-
@@ -132,42 +132,75 @@ higher eduction. (2015), AIR-212, Score- 607/1000
 
 • Stood first in the presidency college Geology undergraduate admission test, 2010
 
+## Synergistic Activities
+
+• Outstanding Student Poster/Pico Presentation contest coordinator for European Geoscience Union Geodynamics division: 2023-current
+
+• Reviewer: Nature Geoscience, Nature Communications: Earth and Environment, Tectonophysics, Physics of the Earth and Planetary Interiors, Geophysical Journal International, National Science Foundation (USA), Lithosphere
+
+• Social media co-ordinator: European Geoscience Union, Geodynamics Division: 2019-2021
+
+• Blog Editor: European Geoscience Union, Geodynamics Division: 2020-2021
+
+• Membership: European Geoscience Union, American Geophysical Union
+
+• Conference organisation: Session chair at American Geophysical Union: 2019, 2022
+
+• Student volunteer: American Geophysical Union Fall Meeting: 2018
+
+• Guest-photographer & official instagram handle: American Geophysical Union: 2018-2019
+
+## Academic visits
+
+`2022 June`
+Research stay: ETH Z¨urich
+
+`2014 June - July`
+Industrial experience: Schlumberger, Mumbai
+
+`2012/2013 Summer`
+Research Stay: Indian Institute of Technology, Bombay
+
+## Invited Talks
+`2024`
+ 13. Durgapur Government College, Durgapur [Virtual]
+
+ 12. Arizona State University, Tempe [Virtual]
+
+ 11. Indian Institute of Science, Bangalore
+
+ 10. Structural Geology and Tectonic Studies Group of India’s Monthly Lecture, April [Virtual]
+
+ 9. Indian Statistical Institute, Kolkata
+
+ 8. Indian Institute of Science Education and Research, Kolkata
+
+`2023`
+ 7. Keynote Speaker, German Swiss Geodynamics workshop, Haltern am See
+
+ 6. Invited Speaker, American Geophysical Union, San Fransisco
+
+ 5. Sabarmati Young Researcher Seminar, Indian Institute of Technology, Gandhinagar
+
+`2022`
+ 4. Centre for Earth Evolution and Dynamics, University of Oslo, Oslo
+
+ 3. Department of Geology, Presidency University, Kolkata
+
+`2021`
+ 2. Bayerisches Geoinstitut, Universit¨at Bayreuth, Bayreuth
+
+`2020`
+ 1. Invited speaker at Geogle’20 Jadavpur University Geological Society, Kolkata
 
 ## Publications
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Jan 2025 -->
 
 
