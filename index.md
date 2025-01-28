@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: @ Jyotirmoy Paul
 ---
 # Jyotirmoy Paul
 Marie Skłodowska-Curie Fellow
@@ -48,8 +48,9 @@ __Javapur University__
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2023-2027`
+Marie Sklodowska–Curie fellowship
+- Amount: €210,911.04
 
 Associate, *French Academy of Science*, Paris, France
 
