@@ -163,39 +163,35 @@ Research Stay: Indian Institute of Technology, Bombay
 
 ## Invited Talks
 `2024`
- 13. Durgapur Government College, Durgapur [Virtual]
+• Durgapur Government College, Durgapur [Virtual]
 
- 12. Arizona State University, Tempe [Virtual]
+• Arizona State University, Tempe [Virtual]
 
- 11. Indian Institute of Science, Bangalore
+• Indian Institute of Science, Bangalore
 
- 10. Structural Geology and Tectonic Studies Group of India’s Monthly Lecture, April [Virtual]
+• Structural Geology and Tectonic Studies Group of India’s Monthly Lecture, April [Virtual]
 
- 9. Indian Statistical Institute, Kolkata
+• Indian Statistical Institute, Kolkata
 
- 8. Indian Institute of Science Education and Research, Kolkata
+• Indian Institute of Science Education and Research, Kolkata
 
 `2023`
- 7. Keynote Speaker, German Swiss Geodynamics workshop, Haltern am See
+• Keynote Speaker, German Swiss Geodynamics workshop, Haltern am See
 
- 6. Invited Speaker, American Geophysical Union, San Fransisco
+• Invited Speaker, American Geophysical Union, San Fransisco
 
- 5. Sabarmati Young Researcher Seminar, Indian Institute of Technology, Gandhinagar
+• Sabarmati Young Researcher Seminar, Indian Institute of Technology, Gandhinagar
 
 `2022`
- 4. Centre for Earth Evolution and Dynamics, University of Oslo, Oslo
+• Centre for Earth Evolution and Dynamics, University of Oslo, Oslo
 
- 3. Department of Geology, Presidency University, Kolkata
+• Department of Geology, Presidency University, Kolkata
 
 `2021`
- 2. Bayerisches Geoinstitut, Universit¨at Bayreuth, Bayreuth
+• Bayerisches Geoinstitut, University of Bayreuth, Bayreuth
 
 `2020`
- 1. Invited speaker at Geogle’20 Jadavpur University Geological Society, Kolkata
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+• Invited speaker at Geogle’20 Jadavpur University Geological Society, Kolkata
 
 
 
