@@ -112,10 +112,25 @@ Amount $4200
 
 ## Academic Achievements 
 
-### 
-
 Obtained highest grade in PhD course work (7.1/8) at Centre for Earth Sciences, Indian
 Institute of Science, 2015 academic year
+
+Obtained second highest marks in Postgraduate batch (82.25%) at Department of Ge-
+ological sciences, Jadavpur University, 2013- 2015 academic year
+
+• Obtained Third highest marks in Undergraduate Batch (81.7%) at Department of Ge-
+ological sciences, Jadavpur University, 2010- 2013
+
+• Secured highest marks in undergraduate 1 st and 2 nd year (2010 - 2012) and gold
+medalist from University Alumni Association
+
+• Qualified for National Eligibility Test (NET) for pursing doctoral degree in India: Rank-18
+in 2015, Rank 99 in 2014.
+
+• Qualified for Graduate Aptitude Test in Engineering (GATE) for pursuing MTech or
+higher eduction. (2015), AIR-212, Score- 607/1000
+
+• Stood first in the presidency college Geology undergraduate admission test, 2010
 
 
 ## Publications
