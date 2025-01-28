@@ -2,7 +2,7 @@
 layout: cv
 title: 
 ---
-font-family: 'Roboto', sans-serif
+
 # Jyotirmoy Paul
 Centre for Planetary Habitability, University of Oslo.
 
@@ -381,7 +381,6 @@ blog. <a href='https://blogs.egu.eu/divisions/gd/2018/05/17/egu-2018-experience-
 belt, Tentuldanga, Jharkhand, Eastern India, Eastern India, 2014. Earth Science India, PI
 VII(IV) P. 1-8.
 
-</span>
 
 <!-- ### Footer
 
