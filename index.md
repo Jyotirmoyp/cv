@@ -50,7 +50,7 @@ __Javapur University__
 
 `2023-2027`
 Marie Sklodowska–Curie fellowship
-- Amount: €210,911.04
+Amount: €210,911.04
 
 Associate, *French Academy of Science*, Paris, France
 
