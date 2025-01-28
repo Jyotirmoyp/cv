@@ -172,65 +172,66 @@ Research Stay: Indian Institute of Technology, Bombay
 
 ## Invited Talks
 `2024`
-• Durgapur Government College, Durgapur [Virtual]
+[13] Durgapur Government College, Durgapur [Virtual]
 
-• Arizona State University, Tempe [Virtual]
+[12] Arizona State University, Tempe [Virtual]
 
-• Indian Institute of Science, Bangalore
+[11] Indian Institute of Science, Bangalore
 
-• Structural Geology and Tectonic Studies Group of India’s Monthly Lecture, April [Virtual]
+[10] Structural Geology and Tectonic Studies Group of India’s Monthly Lecture, April [Virtual]
 
-• Indian Statistical Institute, Kolkata
+[9] Indian Statistical Institute, Kolkata
 
-• Indian Institute of Science Education and Research, Kolkata
+[8] Indian Institute of Science Education and Research, Kolkata
 
 `2023`
-• Keynote Speaker, German Swiss Geodynamics workshop, Haltern am See
+[7] Keynote Speaker, German Swiss Geodynamics workshop, Haltern am See
 
-• Invited Speaker, American Geophysical Union, San Fransisco
+[6] Invited Speaker, American Geophysical Union, San Fransisco
 
-• Sabarmati Young Researcher Seminar, Indian Institute of Technology, Gandhinagar
+[5] Sabarmati Young Researcher Seminar, Indian Institute of Technology, Gandhinagar
 
 `2022`
-• Centre for Earth Evolution and Dynamics, University of Oslo, Oslo
+[4] Centre for Earth Evolution and Dynamics, University of Oslo, Oslo
 
-• Department of Geology, Presidency University, Kolkata
+[3] Department of Geology, Presidency University, Kolkata
 
 `2021`
-• Bayerisches Geoinstitut, University of Bayreuth, Bayreuth
+[2] Bayerisches Geoinstitut, University of Bayreuth, Bayreuth
 
 `2020`
-• Invited speaker at Geogle’20 Jadavpur University Geological Society, Kolkata
+[1] Invited speaker at Geogle’20 Jadavpur University Geological Society, Kolkata
 
 
 ## Publications 
 ### Peer reviewed journals
 
-* corresponding author
+*corresponding author
+
 [8] J.Paul*, A. Spang, A. Piccolo. Hydration weakening and destruction of the North China Craton,
 Tectonophysics (under review)
 
-7. J. Paul*, G. Golabek, A. Rozel, P. Tackley, T. Katsura, H. Fei, 2024. Insignificant effect of
+[7] J. Paul*, G. Golabek, A. Rozel, P. Tackley, T. Katsura, H. Fei, 2024. Insignificant effect of
 bridgmanite-ferropericlase grain size evolution on Earth’s lower mantle viscosity, Progress in
 Earth and Planetary Science, 11 (64), [doi] [Open access].
 
-6. J.Paul*, C.P. Conrad, T.W. Becker, A. Ghosh, 2023. Convective craton self-compression and
+[6] J.Paul*, C.P. Conrad, T.W. Becker, A. Ghosh, 2023. Convective craton self-compression and
 its role for stabilization of old lithosphere, 50, e2022GL101842 [doi] [Open access].
 
-5. J. Paul*, A. Ghosh, 2022. Could the Reunion plume have thinned the Indian craton?, Geology,
+[5] J. Paul*, A. Ghosh, 2022. Could the Reunion plume have thinned the Indian craton?, Geology,
 v. 50, p. 346–350 [doi].
 
-4. 4. J. Paul*, A. Ghosh, 2020. Evolution of cratons through the ages: A time-dependent study,
+[4] J. Paul*, A. Ghosh, 2020. Evolution of cratons through the ages: A time-dependent study,
 Earth and Planetary Science Letters, 531, 115962 [doi].
 
-3. J. Paul*, S. Mondal, R. Kayal, D. Sarkar, 2019. Burrow morphology of the ocypodid crab
+[3] J. Paul*, S. Mondal, R. Kayal, D. Sarkar, 2019. Burrow morphology of the ocypodid crab
 Ocypode ceratophthalma at Chandipur Coast, Eastern India and its implications. Current
 Science, 117(4), 699-705 [link] [Open access].
 
-2. J. Paul*, A. Ghosh, C.P. Conrad, 2019. Traction and strain-rate at the base of the lithosphere:
+[2] J. Paul*, A. Ghosh, C.P. Conrad, 2019. Traction and strain-rate at the base of the lithosphere:
 An insight into cratonic survival. Geophysical Journal International, 217(2), 1024-1033 [doi].
 
-1. A.S. Baidya, J. Paul, D.C. Pal, and D. Upadhyay, 2017. Mode of occurrence and geochemistry
+[1] A.S. Baidya, J. Paul, D.C. Pal, and D. Upadhyay, 2017. Mode of occurrence and geochemistry
 of amphibole in the Kolihan-Chandmari copper deposits, Rajasthan, India: Insight into the
 ore-forming process. Ore Geology Reviews, 80, 1092-1110 [doi].
 
