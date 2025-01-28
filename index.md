@@ -203,6 +203,37 @@ Research Stay: Indian Institute of Technology, Bombay
 • Invited speaker at Geogle’20 Jadavpur University Geological Society, Kolkata
 
 
+## Publications 
+### Peer reviewed journals
+
+* corresponding author
+[8] J.Paul*, A. Spang, A. Piccolo. Hydration weakening and destruction of the North China Craton,
+Tectonophysics (under review)
+
+7. J. Paul*, G. Golabek, A. Rozel, P. Tackley, T. Katsura, H. Fei, 2024. Insignificant effect of
+bridgmanite-ferropericlase grain size evolution on Earth’s lower mantle viscosity, Progress in
+Earth and Planetary Science, 11 (64), [doi] [Open access].
+
+6. J.Paul*, C.P. Conrad, T.W. Becker, A. Ghosh, 2023. Convective craton self-compression and
+its role for stabilization of old lithosphere, 50, e2022GL101842 [doi] [Open access].
+
+5. J. Paul*, A. Ghosh, 2022. Could the Reunion plume have thinned the Indian craton?, Geology,
+v. 50, p. 346–350 [doi].
+
+4. 4. J. Paul*, A. Ghosh, 2020. Evolution of cratons through the ages: A time-dependent study,
+Earth and Planetary Science Letters, 531, 115962 [doi].
+
+3. J. Paul*, S. Mondal, R. Kayal, D. Sarkar, 2019. Burrow morphology of the ocypodid crab
+Ocypode ceratophthalma at Chandipur Coast, Eastern India and its implications. Current
+Science, 117(4), 699-705 [link] [Open access].
+
+2. J. Paul*, A. Ghosh, C.P. Conrad, 2019. Traction and strain-rate at the base of the lithosphere:
+An insight into cratonic survival. Geophysical Journal International, 217(2), 1024-1033 [doi].
+
+1. A.S. Baidya, J. Paul, D.C. Pal, and D. Upadhyay, 2017. Mode of occurrence and geochemistry
+of amphibole in the Kolihan-Chandmari copper deposits, Rajasthan, India: Insight into the
+ore-forming process. Ore Geology Reviews, 80, 1092-1110 [doi].
+
 
 <!-- ### Footer
 
