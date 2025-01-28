@@ -257,6 +257,130 @@ Comparative Analysis of North China and Indian Craton, AGU Fall Meeting, San Fra
 [23] *J. Paul*, G. Golabek, A. Rozel, P. Tackley, T. Katsura, H. Fei, 2023. Negligible Effect of
 Bridgmanite-ferropericlase Grain Growth in the Lower Mantle Dynamics, AGU Fall Meeting,
 San Fransisco.
+
+[22] *J. Paul^*, A. Ghosh, C. P. Conrad, T. W. Becker, A. Spang, A. Piccolo, 2023Unraveling the
+Stability and Longevity of Cratons: Traction Patterns, Weakening Processes, and Evolutionary
+Dynamics, German-Swiss Geodynamics Workshop, Haltern am see.
+
+[21] *J. Paul*, G. Golabek, A. Rozel, P. Tackley, T. Katsura, H. Fei, 2023. Insignificant Effect of
+Grain Size Evolution in the Lower Mantle Dynamics, German-Swiss Geodynamics Workshop,
+Haltern am see.
+
+[20] *J. Paul*, G. Golabek, A. Rozel, P. Tackley, T. Katsura, H. Fei, 2023. Effect of grain-size
+evolution on the lower mantle dynamics. EGU General Assembly, Vienna.
+
+[19] *J. Paul*, G. Golabek, A. Rozel, P. Tackley, T. Katsura, H. Fei, 2022. Modeling Earth’s mantle
+evolution using olivine and bridgmanite grain growth parameters. AGU Fall Meeting, Chicago.
+
+[18] *J. Paul*, C. P. Conrad, T. W. Becker, A. Ghosh, 2022. Self-induced craton compression: Po-
+tential implications for craton stability. AGU Fall Meeting, Chicago.
+
+[17] *J. Paul*, G. Golabek, A. Rozel, P. Tackley, T. Katsura, H. Fei, 2022. Effect of heterogeneous
+grain-growth in Earth’s mantle. Ada Lovelace Workshop, H´ev´ız , Hungary.
+
+[16] *J. Paul*, A. Ghosh, 2021. Thinning of the Indian craton due to Reunion plume eruption. AGU
+Fall Meeting, New Orleans (virtual).
+
+[15] *J. Paul*, A. Ghosh, 2021. Effect of the reunion plume eruption on the Indian craton thickness.
+6th Rock deformation and structures, virtual mode.
+
+[14] *J. Paul*, A. hosh, 2021. Interaction of the Indian craton with the Reunion plume. EGU General
+Assembly, Viena
+
+[13] *J. Paul*, A. Ghosh, 2020. Understanding deformation of cratons in presence of mid-lithospheric
+discontinuity. EGU General Assembly, Viena.
+
+[12] J. Paul, A. Ghosh, 2020. On survival of cratonic lithosphere. 36th International Geological
+Congress, Delhi.
+
+[11] *J. Paul*, A. Ghosh, 2019. Evolution of cratons in time-dependent mantle convection models.
+AGU Fall Meeting, San Francisco
+
+[10] A. Ghosh, *J. Paul*, 2019. Effect of Weak Mid-lithospheric Discontinuities on the Survival of
+Cratons. AGU Fall Meeting, San Francisco.
+
+[9] J. Paul, A. Ghosh, 2019. Time dependent 3-D numerical modeling of the cratonic evolution.
+Ada Lovelace Workshop, Siena, Italy. [Displayed by Grace Shephard in my absence due to visa
+issue.]
+
+[8] *J. Paul*, A. Ghosh, 2019. Evolution and survival potential of cratons: A numerical study.
+IUGG General Assembly, Montreal.
+
+[7] *J. Paul*, A. Ghosh, 2018. Stability of cratons since early Phanerozoic. AGU Fall Meeting,
+Washington DC.
+
+[6] *A. Ghosh*, J. Paul, C.P. Conrad, 2018. The Relation between Tractions and Strain Rate
+at the Base of the Lithosphere: Key to Understanding Cratonic Stability AGU Fall Meeting,
+Washington DC.
+
+[5] *Paul J*, Ghosh A., 2018. Variation of traction and strain rate with lithospheric thickness: An
+insight into understanding cratonic stability, EGU General Assembly, Vienna.
+
+[4] *J. Paul*, A.S. Baidya, D.C. Pal, 2015. Origin of alternate amphibole and quartz rich bands
+in amphibole bearing quartzite from North Khetri Copper Belt, Rajasthan, India, AGU Fall
+Meeting, San Francisco.
+
+[3] A.S. Baidya, J. Paul. and D. C. Pal, 2014. Multiple stages of Amphibole formation in the
+Chandmari Cu-deposit, Khetri copper belt, Rajasthan: implications for changing fluid compo-
+sition vis-`a-vis sulfide mineralization, National Conference on Making of the Indian Continent,
+Presidency University, Kolkata.
+
+[2] *J. Paul*, 2014. Diversity of Indian climate and its effect on Indian music, 3 rd YES Congress
+Abstract Volume.
+
+[1] *J. Paul*, S. Mondal, 2013. Ecological significance of Ocypode crab burrows: A case study from
+Chandipur, Eastern Coast of India, National Conference on Earth Science in India: Challenges
+and Emerging Trends, Indian Institute of Technology, Roorkee, Abstract volume.
+
+### Book Contributions
+
+[5] Paul J., 2020. How Did the Oldest Part of the Earth still Survive Today?. In: AWSAR Awarded
+Popular Science Stories: By the Scientists for the people, Vigyan Prasar, Department of Science
+and Technology, Govt. of India.
+
+[4] Paul J., 2015. Tightly folded quartz vein in dolomitic host rock, Central Indian Suture Zone.
+Jabalpur, Madhya Pradesh, India. In: Mukherjee, S. (Ed) Atlas of Structural Geology, Elsevier.
+
+[3] Paul J., 2015. Doubly plunging round hinge isoclinals fold in calc-silicate. Central Indian Suture
+Zone. Jabalpur, Madhya Pradesh, India. In: Mukherjee, S. (Ed) Atlas of Structural Geology,
+Elsevier.
+
+[2] Paul J, 2015. Folded quartz vein in dolomitic rock showing different geometries of hinge region.
+Central Indian Suture Zone. Jabalpur, Madhya Pradesh, India. In: Mukherjee, S. (Ed) Atlas of
+Structural Geology, Elsevier.
+
+[1] Paul, J., 2015. Z-type of buckle fold of amphibole rich layer in metamorphosed granitic host
+rock. Chhotonagpur Gneissic Complex, Maithon, West Bengal, India. In: Mukherjee, S. (Ed)
+Atlas of Structural Geology, Elsevier.
+
+### Science Communications
+
+[9] Continental drift in academia, 2022. European Geoscience Union, Geoscience division blog.
+<a href='https://blogs.egu.eu/divisions/gd/2022/01/19/continental-drift-in-academia/'>[Link]</a>
+
+[8] Geophysics resource tools for students: Self internship, 2021. Geoscience education. <a href='https://geoedu.weebly.com/career/geophysics-resource-tools-for-students-self-internship'>[Link]</a>
+
+[7] Time before plate-tectnics, 2021. Geoscience Education. <a href='https://geoedu.weebly.com/inside-earth/time-before-plate-tectonics'>[Link]</a>
+
+[6] Why many geology students quit their jobs and return to academia? 2021. Geoscience education.
+<a href='https://geoedu.weebly.com/career/geophysics-resource-tools-for-students-self-internship'>[Link] </a>
+
+[5] Cratons! Why are you still here?, 2021. American Geophysical Union, Eos. <a href='https://eos.org/features/cratons-why-are-you-still-here?/'>[Link]</a>
+
+[4] 2021: 100th Year of the craton concept and beyond, 2021. European Geoscience Union, Geody-
+namics division blog. <a href='https://blogs.egu.eu/divisions/gd/2021/01/13/2021-100th-year-of-the-craton-concept-and-beyond/'>[Link]</a>
+
+[3] Geoscience in the third world, 2020. European Geoscience Union, Geoscience division blog.
+<a href='https://blogs.egu.eu/divisions/gd/2020/11/04/geoscience-in-the-third-world/'>[Link]</a>
+
+[2] Experience of a first time attendee, 2018. European Geoscience Union, Geodynamics division
+blog. <a href='https://blogs.egu.eu/divisions/gd/2018/05/17/egu-2018-experience-of-a-first-time-attendee/'>[Link]</a>
+
+[1] Deformation Pattern as indicator of structural evolution: Ghatsila-Galudih-Tentuldanga fold
+belt, Tentuldanga, Jharkhand, Eastern India, Eastern India, 2014. Earth Science India, PI
+VII(IV) P. 1-8.
+
+
 <!-- ### Footer
 
 Last updated: Jan 2025 -->
