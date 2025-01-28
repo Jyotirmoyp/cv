@@ -2,7 +2,7 @@
 layout: cv
 title: 
 ---
-<span font-family: 'Roboto', sans-serif>
+font-family: 'Roboto', sans-serif
 # Jyotirmoy Paul
 Centre for Planetary Habitability, University of Oslo.
 
