@@ -3,7 +3,6 @@ layout: cv
 title: 
 ---
 # Jyotirmoy Paul
-Marie Skłodowska-Curie Fellow
 Centre for Planetary Habitability, University of Oslo.
 
 <div id="webaddress">
@@ -60,33 +59,40 @@ Amount: €1500
 
 `2021`
 • American Geophysical Union student travel grant
+
 Amount: $ 1000
 
 • Selected for Roland Schlich travel grant for early career scientists by
-European Geoscience Union, (Carried forward to vEGU21 registration
+European Geoscience Union
+
+(Carried forward to vEGU21 registration
 wavier)
 
 `2020`
-• Support Under Special Registration Program (SRSP) in the 36 th Inter-
-national Geological Congress, New Delhi
+• Support Under Special Registration Program (SRSP) in the 36 th International Geological Congress, New Delhi
+
 Amount: $350
 
 `2019`
 • American Geophysical Union student travel grant
+
 Amount: $1000
 
 • Augmenting Writing Skills for Articulating Research, Department of Science and Technology, Govt. of India
+
 Amount $150 USD
 
-• Tata Trust Grant to attend American Geophysical Union Fall Meeting,
-San Francisco
+• Tata Trust Grant to attend American Geophysical Union Fall Meeting, San Francisco
+
 Amount: $2000
 
 `2018`
 • Roland Schlich travel grant for early career scientists by European Geoscience Union
+
 Amount: €700
 
 • American Geophysical Union student travel grant
+
 Amount:$1000
 
 `2017-2020`
@@ -96,18 +102,20 @@ Amount:$1000
 • Junior Research Fellow, Indian Institute of Science, Bangalore
 
 `2014`
-• Best poster presentation, 3 rd Young Earth Scientists (YES) Congress,
-Dar Es Salaam
+• Best poster presentation, 3 rd Young Earth Scientists (YES) Congress, Dar Es Salaam
 
 • Travel grant from International Association of Mathematical Geosciences
+
 Amount: $1000
 
 • YES Network conference grant
+
 Amount: $500
 
 `2010-2015`
 • INSPIRE Scholarship, Department of Science and Technology, Govt. of
 India, for being top 1% students in high school board exam
+
 Amount $4200
 
 ## Academic Achievements 
