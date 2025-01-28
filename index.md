@@ -7,7 +7,7 @@ title:
 Centre for Planetary Habitability, University of Oslo.
 
 <div id="webaddress">
-<a href="jyotirmoyp.github.io">[webpage]</a>
+<a href="https://jyotirmoyp.github.io">[webpage]</a>
 <a href='https://scholar.google.com/citations?user=jqL2PHkAAAAJ&hl=en'>[Scholar]</a>
 
 </div>
