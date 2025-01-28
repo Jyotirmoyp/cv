@@ -234,7 +234,29 @@ An insight into cratonic survival. Geophysical Journal International, 217(2), 10
 of amphibole in the Kolihan-Chandmari copper deposits, Rajasthan, India: Insight into the
 ore-forming process. Ore Geology Reviews, 80, 1092-1110 <a href='https://doi.org/10.1016/j.oregeorev.2016.08.032'>[doi]</a>.
 
+### Conference Abstracts
 
+[29] *J. Paul*, C.P. Conrad, 2025. Slow Thickening of Cratons Has Increased Kimberlite Frequency
+Over Time, EGU General Assembly, Vienna.
+
+[28] A. Piccolo, *J. Paul*, A. Spang, 2025. Importance of hydration weakening in the North China
+Craton destruction, EGU General Assembly, Vienna.
+
+[27] G. Golabek, *J. Paul*, A. Rozel, P. Tackley, T. Katsura, H. Fei, 2025. Importance of grain
+size-dependent viscosity for the early and present-day Earth, EGU General Assembly, Vienna.
+
+[26] *J. Paul*, A. Spang, A. Piccolo, 2024. Importance of hydration weakening in the North China
+Craton destruction, AGU Fall Meeting, Washington Dc.
+
+[25] *J. Paul*, G. Golabek, A. Rozel, P. Tackley, T. Katsura, H. Fei, 2024. How does bridgmanite-
+ferropericlase grain size affect the average lower mantle viscosity? AGU Fall Meeting, Washington Dc.
+
+[24] *J. Paul^*, A. Spang, A. Piccolo, A. Ghosh, 2023. Craton Weakening and Destruction: A
+Comparative Analysis of North China and Indian Craton, AGU Fall Meeting, San Francisco.
+
+[23] *J. Paul*, G. Golabek, A. Rozel, P. Tackley, T. Katsura, H. Fei, 2023. Negligible Effect of
+Bridgmanite-ferropericlase Grain Growth in the Lower Mantle Dynamics, AGU Fall Meeting,
+San Fransisco.
 <!-- ### Footer
 
 Last updated: Jan 2025 -->
