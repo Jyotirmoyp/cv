@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: @ Jyotirmoy Paul
+title:  Jyotirmoy Paul
 ---
 # Jyotirmoy Paul
 Marie Skłodowska-Curie Fellow
