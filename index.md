@@ -3,6 +3,7 @@ layout: cv
 title: Isaac Newtons's CV
 ---
 # Jyotirmoy Paul
+Marie Skłodowska-Curie Fellow
 Centre for Planetary Habitability, University of Oslo.
 
 <div id="webaddress">
@@ -14,25 +15,36 @@ Centre for Planetary Habitability, University of Oslo.
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Geodynamics
 
+
+## Appointments
+
+`2024 - Present`
+__University of Oslo__
+- Marie Skłodowska-Curie Fellow
+  
+`2021-2024`
+__University of Bayreuth__
+- Postdoctoral fellow
+  
+`2021 Jul - Oct`
+__IISc, Bangalore__
+- Research Associate
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
+`2015 - 2021`
+__IISc, Bangalore__
+- PhD, Geodynamics
+  
+`2013-2015`
+__Javapur University__
+- MSc., Applied Geology
+  
+`2010-2013`
+__Javapur University__
+- BSc., Geoloy with Mathematics and Physics
 
 ## Awards
 
