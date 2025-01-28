@@ -47,7 +47,7 @@ __Javapur University__
 __Javapur University__
 - BSc., Geoloy with Mathematics and Physics
 
-## Awards / Grants
+## Grants received
 
 `2023-2027`
 • Marie Sklodowska–Curie fellowship
