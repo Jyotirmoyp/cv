@@ -42,12 +42,12 @@ __IISc, Bangalore__
 - PhD, Geodynamics
   
 `2013-2015`
-__Javapur University__
+__Jadavpur University__
 - MSc., Applied Geology
   
 `2010-2013`
-__Javapur University__
-- BSc., Geoloy with Mathematics and Physics
+__Jadavpur University__
+- BSc., Geology with Mathematics and Physics
 
 ## Grants received
 
@@ -127,11 +127,9 @@ Amount $4200
 • Obtained highest grade in PhD course work (7.1/8) at Centre for Earth Sciences, Indian
 Institute of Science, 2015 academic year
 
-• Obtained second highest marks in Postgraduate batch (82.25%) at Department of Ge-
-ological sciences, Jadavpur University, 2013- 2015 academic year
+• Obtained second highest marks in Postgraduate batch (82.25%) at Department of Geological sciences, Jadavpur University, 2013- 2015 academic year
 
-• Obtained Third highest marks in Undergraduate Batch (81.7%) at Department of Ge-
-ological sciences, Jadavpur University, 2010- 2013
+• Obtained Third highest marks in Undergraduate Batch (81.7%) at Department of Geological sciences, Jadavpur University, 2010- 2013
 
 • Secured highest marks in undergraduate 1 st and 2 nd year (2010 - 2012) and gold
 medalist from University Alumni Association
