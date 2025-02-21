@@ -143,11 +143,26 @@ higher eduction. (2015), AIR-212, Score- 607/1000
 
 • Stood first in the presidency college Geology undergraduate admission test, 2010
 
+## Reviewer 
+
+Nature Geoscience
+
+Nature Communications: Earth and Environment
+
+Tectonophysics
+
+Physics of the Earth and Planetary Interiors
+
+Geophysical Journal International
+
+National Science Foundation (USA)
+
+Lithosphere
+
+
 ## Synergistic Activities
 
 • Outstanding Student Poster/Pico Presentation contest coordinator for European Geoscience Union Geodynamics division: 2023-current
-
-• Reviewer: Nature Geoscience, Nature Communications: Earth and Environment, Tectonophysics, Physics of the Earth and Planetary Interiors, Geophysical Journal International, National Science Foundation (USA), Lithosphere
 
 • Social media co-ordinator: European Geoscience Union, Geodynamics Division: 2019-2021
 
@@ -164,7 +179,7 @@ higher eduction. (2015), AIR-212, Score- 607/1000
 ## Academic visits
 
 `2022 June`
-Research stay: ETH Z¨urich
+Research stay: ETH Zürich
 
 `2014 June - July`
 Industrial experience: Schlumberger, Mumbai
