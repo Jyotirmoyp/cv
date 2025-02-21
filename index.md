@@ -52,21 +52,21 @@ __Jadavpur University__
 ## Grants received
 
 `2023-2027`
-• Marie Sklodowska–Curie fellowship
+• __Marie Sklodowska–Curie fellowship__
 
 Amount: €210,911.04
 
 `2022`
-• University of Bayreuth independent research travel grant
+• University of Bayreuth __Independent Research Travel Grant__
 
 Amount: €1500
 
 `2021`
-• American Geophysical Union student travel grant
+• __American Geophysical Union student travel grant__
 
 Amount: $ 1000
 
-• Selected for Roland Schlich travel grant for early career scientists by
+• Selected for __Roland Schlich travel grant__ for early career scientists by
 European Geoscience Union
 
 (Carried forward to vEGU21 registration
@@ -78,24 +78,24 @@ wavier)
 Amount: $350
 
 `2019`
-• American Geophysical Union student travel grant
+• __American Geophysical Union student travel grant__
 
 Amount: $1000
 
-• Augmenting Writing Skills for Articulating Research, Department of Science and Technology, Govt. of India
+• Augmenting Writing Skills for Articulating Research __(AWSAR)__, Department of Science and Technology, Govt. of India
 
 Amount $150 USD
 
-• Tata Trust Grant to attend American Geophysical Union Fall Meeting, San Francisco
+• __Tata Trust Grant__ to attend American Geophysical Union Fall Meeting, San Francisco
 
 Amount: $2000
 
 `2018`
-• Roland Schlich travel grant for early career scientists by European Geoscience Union
+• __Roland Schlich travel grant__ for early career scientists by European Geoscience Union
 
 Amount: €700
 
-• American Geophysical Union student travel grant
+• __American Geophysical Union student travel grant__
 
 Amount:$1000
 
@@ -106,7 +106,7 @@ Amount:$1000
 • Junior Research Fellow, Indian Institute of Science, Bangalore
 
 `2014`
-• Best poster presentation, 3 rd Young Earth Scientists (YES) Congress, Dar Es Salaam
+• __Best poster presentation__, 3 rd Young Earth Scientists (YES) Congress, Dar Es Salaam
 
 • Travel grant from International Association of Mathematical Geosciences
 
@@ -117,27 +117,28 @@ Amount: $1000
 Amount: $500
 
 `2010-2015`
-• INSPIRE Scholarship, Department of Science and Technology, Govt. of
+• __INSPIRE Scholarship__, Department of Science and Technology, Govt. of
 India, for being top 1% students in high school board exam
 
 Amount $4200
 
 ## Academic Achievements 
 
-• Obtained highest grade in PhD course work (7.1/8) at Centre for Earth Sciences, Indian
+• __Institute Gold Medal__ for the best thesis, Centre for Earth Sciences, Indian Institute of Science, 2025
+
+• Obtained __highest grade in PhD course work__ (7.1/8) at Centre for Earth Sciences, Indian
 Institute of Science, 2015 academic year
 
-• Obtained second highest marks in Postgraduate batch (82.25%) at Department of Geological sciences, Jadavpur University, 2013- 2015 academic year
+• Obtained __second highest marks in Postgraduate__ batch (82.25%) at Department of Geological sciences, Jadavpur University, 2013- 2015 academic year
 
-• Obtained Third highest marks in Undergraduate Batch (81.7%) at Department of Geological sciences, Jadavpur University, 2010- 2013
+• Obtained __Third highest marks in Undergraduate__ Batch (81.7%) at Department of Geological sciences, Jadavpur University, 2010- 2013
 
-• Secured highest marks in undergraduate 1 st and 2 nd year (2010 - 2012) and gold
-medalist from University Alumni Association
+• GOld medalist for securing highest marks in undergraduate 1 st and 2 nd year (2010 - 2012), Jadavpur University
 
-• Qualified for National Eligibility Test (NET) for pursing doctoral degree in India: Rank-18
+• Qualified for National Eligibility Test __(NET)__ for pursing doctoral degree in India: Rank-18
 in 2015, Rank 99 in 2014.
 
-• Qualified for Graduate Aptitude Test in Engineering (GATE) for pursuing MTech or
+• Qualified for Graduate Aptitude Test in Engineering __(GATE)__ for pursuing MTech or
 higher eduction. (2015), AIR-212, Score- 607/1000
 
 • Stood first in the presidency college Geology undergraduate admission test, 2010
