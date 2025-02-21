@@ -133,7 +133,7 @@ Institute of Science, 2015 academic year
 
 • Obtained __Third highest marks in Undergraduate__ Batch (81.7%) at Department of Geological sciences, Jadavpur University, 2010- 2013
 
-• GOld medalist for securing highest marks in undergraduate 1 st and 2 nd year (2010 - 2012), Jadavpur University
+• __Gold medalist__ for securing highest marks in undergraduate 1 st and 2 nd year (2010 - 2012), Jadavpur University
 
 • Qualified for National Eligibility Test __(NET)__ for pursing doctoral degree in India: Rank-18
 in 2015, Rank 99 in 2014.
