@@ -124,14 +124,14 @@ Amount $4200
 
 ## Academic Achievements 
 
-• __Institute Gold Medal__ for the best PhD thesis, Centre for Earth Sciences, Indian Institute of Science, 2025
+• __Institute gold medal__ for the best PhD thesis, Centre for Earth Sciences, Indian Institute of Science, 2025
 
 • Obtained __highest grade in PhD course work__ (7.1/8) at Centre for Earth Sciences, Indian
 Institute of Science, 2015 academic year
 
 • Obtained __second highest marks in Postgraduate__ batch (82.25%) at Department of Geological sciences, Jadavpur University, 2013- 2015 academic year
 
-• Obtained __Third highest marks in Undergraduate__ Batch (81.7%) at Department of Geological sciences, Jadavpur University, 2010- 2013
+• Obtained __third highest marks in Undergraduate__ Batch (81.7%) at Department of Geological sciences, Jadavpur University, 2010- 2013
 
 • __Gold medalist__ for securing highest marks in undergraduate 1 st and 2 nd year (2010 - 2012), Jadavpur University
 
@@ -145,13 +145,11 @@ higher eduction. (2015), AIR-212, Score- 607/1000
 
 ## Reviewer 
 
-Nature Geoscience
+• Nature Geoscience
+• Nature Communications: Earth and Environment
+• Tectonophysics
 
-Nature Communications: Earth and Environment
-
-Tectonophysics
-
-Physics of the Earth and Planetary Interiors
+• Physics of the Earth and Planetary Interiors
 
 Geophysical Journal International
 
