@@ -186,10 +186,10 @@ higher eduction. (2015), AIR-212, Score- 607/1000
 `2022 June`
 Research stay: ETH Zürich
 
-`2014 June - July`
+`2014 summer`
 Industrial experience: Schlumberger, Mumbai
 
-`2012/2013 Summer`
+`2012/13 Summer`
 Research Stay: Indian Institute of Technology, Bombay
 
 ## Invited Talks
