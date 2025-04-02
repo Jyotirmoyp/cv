@@ -158,14 +158,12 @@ higher eduction. (2015), AIR-212, Score- 607/1000
 `2020` __Computational Geodynamics II__ at Centre for Earth Sciences, IISc
 
 Syllabus: Introduction to scientific modelling, governing
-principles of mantle convection models, advanced plot-
-ting techniques in GMT, plate reconstruction techniques in
+principles of mantle convection models, advanced plotting techniques in GMT, plate reconstruction techniques in
 GPlates.
 
 `2018-19` __Computational Geodynamics I__ at Centre for Earth Sciences, IISc
 
-Syllabus: Geophysical quantities, solving differential equa-
-tion using Euler method and finite distance method, heat
+Syllabus: Geophysical quantities, solving differential equation using Euler method and finite distance method, heat
 equation, basic plotting techniques in GMT
 
 
