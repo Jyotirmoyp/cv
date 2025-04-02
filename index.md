@@ -153,6 +153,16 @@ higher eduction. (2015), AIR-212, Score- 607/1000
 • National Science Foundation (USA)
 • Lithosphere
 
+## Teching 
+
+`2018-20` Computational Geodynamics at Centre for Earth Sciences, IISc
+
+## Student mentoring
+
+`2023 EGU` Wan-Lin Hu, PhD candidate, Nanyang Technological University, Singapore
+`2024 AGU`  Sewar Jennifer Almasalha, University of Texas at Austin, USA
+ 
+
 
 ## Synergistic Activities
 
