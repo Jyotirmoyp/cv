@@ -153,7 +153,7 @@ higher eduction. (2015), AIR-212, Score- 607/1000
 • National Science Foundation (USA)
 • Lithosphere
 
-## Teching 
+## Teaching 
 
 `2018-20` Computational Geodynamics at Centre for Earth Sciences, IISc
 
