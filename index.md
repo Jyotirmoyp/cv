@@ -239,8 +239,7 @@ Research Stay: Indian Institute of Technology, Bombay
 ### Peer reviewed journals
 
 
-[8] *J.Paul*, A. Spang, A. Piccolo. Hydration weakening and destruction of the North China Craton,
- (under review)
+[8] *J.Paul*, A. Spang, A. Piccolo. Hydration weakening and destruction of the North China Craton, 2025. Tectonophysics (in press)
 
 [7] *J. Paul*, G. Golabek, A. Rozel, P. Tackley, T. Katsura, H. Fei, 2024. Insignificant effect of
 bridgmanite-ferropericlase grain size evolution on Earth’s lower mantle viscosity, Progress in
