@@ -239,7 +239,8 @@ Research Stay: Indian Institute of Technology, Bombay
 ### Peer reviewed journals
 
 
-[8] *J.Paul*, A. Spang, A. Piccolo. Hydration weakening and destruction of the North China Craton, 2025. Tectonophysics (in press)
+[8] *J.Paul*, A. Spang, A. Piccolo. Hydration weakening and destruction of the North China Craton, 2025. Tectonophysics, 98, 230756
+<a href='https://doi.org/10.1016/j.tecto.2025.230756'>[doi]</a>[Open access]
 
 [7] *J. Paul*, G. Golabek, A. Rozel, P. Tackley, T. Katsura, H. Fei, 2024. Insignificant effect of
 bridgmanite-ferropericlase grain size evolution on Earth’s lower mantle viscosity, Progress in
@@ -266,6 +267,8 @@ of amphibole in the Kolihan-Chandmari copper deposits, Rajasthan, India: Insight
 ore-forming process. Ore Geology Reviews, 80, 1092-1110 <a href='https://doi.org/10.1016/j.oregeorev.2016.08.032'>[doi]</a>.
 
 ### Conference Abstracts
+
+[30] *J. Paul*, C.P. Conrad, 2025. Craton Thickening Controls the Frequency of Kimberlite Volcanism, GeoMOD2025, Lisbon. 
 
 [29] *J. Paul*, C.P. Conrad, 2025. Slow Thickening of Cratons Has Increased Kimberlite Frequency
 Over Time, EGU General Assembly, Vienna.
