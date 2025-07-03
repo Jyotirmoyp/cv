@@ -163,8 +163,8 @@ GPlates.
 
 `2018-19` __Computational Geodynamics I__ at Centre for Earth Sciences, IISc
 
-Syllabus: Geophysical quantities, solving differential equation using Euler method and finite distance method, heat
-equation, basic plotting techniques in GMT
+Syllabus: Geophysical quantities, solving differential equation using Euler method and finite distance method, solution of heat conduction
+equation in 2D, basic plotting techniques in GMT
 
 
 ## Student mentoring
