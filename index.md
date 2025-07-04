@@ -147,6 +147,7 @@ higher eduction. (2015), AIR-212, Score- 607/1000
 
 • Nature Geoscience
 • Nature Communications: Earth and Environment
+• Geophysical Research Letters
 • Tectonophysics
 • Physics of the Earth and Planetary Interiors
 • Geophysical Journal International
