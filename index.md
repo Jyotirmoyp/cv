@@ -124,7 +124,7 @@ Amount $4200
 
 ## Academic Achievements 
 
-• __Institute gold medal__ for the best PhD thesis, Centre for Earth Sciences, Indian Institute of Science, 2025
+• __Institute medal__ for the best PhD thesis, Centre for Earth Sciences, Indian Institute of Science, 2025
 
 • Obtained __highest grade in PhD course work__ (7.1/8) at Centre for Earth Sciences, Indian
 Institute of Science, 2015 academic year
