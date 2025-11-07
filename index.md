@@ -156,6 +156,11 @@ higher eduction. (2015), AIR-212, Score- 607/1000
 
 ## Teaching 
 
+`2025` __Electrical Resistivity Tomography__ at Department of Geosciences, University of Oslo
+
+Syllabus: Introduction to electrical methods, electrical arrays and survey techniques, 
+Electrical sounding and profiling, inversion of electrical data using pyGIMLi, constructing ERT and interpretation 
+
 `2020` __Computational Geodynamics II__ at Centre for Earth Sciences, IISc
 
 Syllabus: Introduction to scientific modelling, governing
