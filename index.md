@@ -58,8 +58,7 @@ __Jadavpur University__
 Amount: €210,911.04
 
 `2025`
-
-• __Institute medal__ for the best PhD thesis, Centre for Earth Sciences, Indian Institute of Science
+• __Institute medal__ for the best PhD thesis, Centre for Earth Sciences, Indian Institute of Science <a href='https://www.mn.uio.no/phab/english/news-and-events/news-and-in-media/2025/the-institute-medal-paul.html' target='_blank'>[News]</a>
 
 `2010-2015`
 • __INSPIRE Scholarship__, Department of Science and Technology, Govt. of
