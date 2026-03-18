@@ -49,12 +49,25 @@ __Jadavpur University__
 __Jadavpur University__
 - BSc., Geology with Mathematics and Physics
 
-## Grants received
+
+## Major Awards
 
 `2023-2027`
 • __Marie Sklodowska–Curie fellowship__
 
 Amount: €210,911.04
+
+`2025`
+
+• __Institute medal__ for the best PhD thesis, Centre for Earth Sciences, Indian Institute of Science
+
+`2010-2015`
+• __INSPIRE Scholarship__, Department of Science and Technology, Govt. of
+India, for being top 1% students in high school board exam
+
+Amount $4200
+
+## Other Grants
 
 `2022`
 • University of Bayreuth __Independent Research Travel Grant__
@@ -116,15 +129,10 @@ Amount: $1000
 
 Amount: $500
 
-`2010-2015`
-• __INSPIRE Scholarship__, Department of Science and Technology, Govt. of
-India, for being top 1% students in high school board exam
 
-Amount $4200
 
 ## Academic Achievements 
 
-• __Institute medal__ for the best PhD thesis, Centre for Earth Sciences, Indian Institute of Science, 2025
 
 • Obtained __highest grade in PhD course work__ (7.1/8) at Centre for Earth Sciences, Indian
 Institute of Science, 2015 academic year
@@ -143,16 +151,22 @@ higher eduction. (2015), AIR-212, Score- 607/1000
 
 • Stood first in the presidency college Geology undergraduate admission test, 2010
 
-## Reviewer 
+## Journal Reviewer 
 
 • Nature Geoscience
+• Nature Communications
 • Nature Communications: Earth and Environment
 • Geophysical Research Letters
+• Journal of Geophysical Research: Solid Earth
+• Tectonics
 • Tectonophysics
 • Physics of the Earth and Planetary Interiors
 • Geophysical Journal International
-• National Science Foundation (USA)
 • Lithosphere
+
+## Scientific funding agency Reviewer 
+• National Science Foundation (USA)
+
 
 ## Teaching 
 
@@ -209,6 +223,12 @@ Industrial experience: Schlumberger, Mumbai
 Research Stay: Indian Institute of Technology, Bombay
 
 ## Invited Talks
+`2025`
+
+[15] International Centre for Theoretical Sciences, Bangalore
+
+[14] 4th Paradigm Research Institute, CSIR, Bangalore
+
 `2024`
 [13] Durgapur Government College, Durgapur [Virtual]
 
