@@ -263,16 +263,18 @@ Research Stay: Indian Institute of Technology, Bombay
 ## Publications 
 ### Peer reviewed journals
 
+[9] *J.Paul*, C.P. Conrad, T.H. Torsvik, Slow craton thickening can increase the frequency of kimberlite eruptions, Communications Earth & Environment, in press, 
+<a href='doi:10.1038/s43247-026-04126-2'>[doi] </a>
 
 [8] *J.Paul*, A. Spang, A. Piccolo. Hydration weakening and destruction of the North China Craton, 2025. Tectonophysics, 98, 230756
-<a href='https://doi.org/10.1016/j.tecto.2025.230756'>[doi]</a>[Open access]
+<a href='https://doi.org/10.1016/j.tecto.2025.230756'>[doi]</a>
 
 [7] *J. Paul*, G. Golabek, A. Rozel, P. Tackley, T. Katsura, H. Fei, 2024. Insignificant effect of
 bridgmanite-ferropericlase grain size evolution on Earth’s lower mantle viscosity, Progress in
-Earth and Planetary Science, 11 (64), <a href='https://doi.org/10.1186/s40645-024-00658-3'>[doi]</a> [Open access].
+Earth and Planetary Science, 11 (64), <a href='https://doi.org/10.1186/s40645-024-00658-3'>[doi]</a>
 
 [6] *J.Paul*, C.P. Conrad, T.W. Becker, A. Ghosh, 2023. Convective craton self-compression and
-its role for stabilization of old lithosphere, 50, e2022GL101842 <a href='doi:10.1029/2022GL101842'>[doi]</a> [Open access].
+its role for stabilization of old lithosphere, 50, e2022GL101842 <a href='doi:10.1029/2022GL101842'>[doi]</a> 
 
 [5] *J. Paul*, A. Ghosh, 2022. Could the Reunion plume have thinned the Indian craton?, Geology,
 v. 50, p. 346–350 <a href='https://doi.org/10.1130/G49492.1'>[doi]</a>.
@@ -282,7 +284,7 @@ Earth and Planetary Science Letters, 531, 115962 <a href='https://doi.org/10.101
 
 [3] *J. Paul*, S. Mondal, R. Kayal, D. Sarkar, 2019. Burrow morphology of the ocypodid crab
 Ocypode ceratophthalma at Chandipur Coast, Eastern India and its implications. Current
-Science, 117(4), 699-705 <a href='https://www.currentscience.ac.in/Volumes/117/04/0699.pdf'>[link]</a> [Open access].
+Science, 117(4), 699-705 <a href='https://www.currentscience.ac.in/Volumes/117/04/0699.pdf'>[link]</a> 
 
 [2] *J. Paul*, A. Ghosh, C.P. Conrad, 2019. Traction and strain-rate at the base of the lithosphere:
 An insight into cratonic survival. Geophysical Journal International, 217(2), 1024-1033 <a href='https://doi.org/10.1093/gji/ggz079'>[doi]</a>.
@@ -292,6 +294,18 @@ of amphibole in the Kolihan-Chandmari copper deposits, Rajasthan, India: Insight
 ore-forming process. Ore Geology Reviews, 80, 1092-1110 <a href='https://doi.org/10.1016/j.oregeorev.2016.08.032'>[doi]</a>.
 
 ### Conference Abstracts
+
+[35], T.F. Nachbar, A.M. Krzesinska, J. Paul, M. Ciocco, C.P. Conrad, 2027. Petrology of Martian Plume-Derived Rocks: Exploring 
+Potential Mars Analogues in Different Tectonic Settings on Earth, Norwegian Geological Society Winter Conference 2027, Oslo.
+
+[34] J. Paul, C.P. Conrad, T.H. Torsvik, 2026. Gradual Craton Thickening Controls Increasing
+Kimberlite Eruption Frequency. 9th Rock deformation society meeting, Kolkata.
+
+[32] *J. Paul*, C.P. Conrad, 2026. Evolution of Continental Lithosphere: Insights from
+Geophysical Modelling, Norwegian Geophysical Society 2nd General Assembly, Oslo
+
+[31] *J. Paul*, C.P. Conrad, 2026. Thickening of cratonic lithosphere: Implications for craton
+growth and kimberlite eruption trends, EGU General Assembly, Vienna.
 
 [30] *J. Paul*, C.P. Conrad, 2025. Craton Thickening Controls the Frequency of Kimberlite Volcanism, GeoMOD2025, Lisbon. 
 
