@@ -264,7 +264,7 @@ Research Stay: Indian Institute of Technology, Bombay
 ### Peer reviewed journals
 
 [9] *J.Paul*, C.P. Conrad, T.H. Torsvik, Slow craton thickening can increase the frequency of kimberlite eruptions, Communications Earth & Environment, in press, 
-<a href='doi:10.1038/s43247-026-04126-2'>[doi] </a>
+<a href='doi:10.1038/s43247-026-04126-2'> [doi] </a>
 
 [8] *J.Paul*, A. Spang, A. Piccolo. Hydration weakening and destruction of the North China Craton, 2025. Tectonophysics, 98, 230756
 <a href='https://doi.org/10.1016/j.tecto.2025.230756'>[doi]</a>
