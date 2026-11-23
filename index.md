@@ -294,8 +294,9 @@ of amphibole in the Kolihan-Chandmari copper deposits, Rajasthan, India: Insight
 ore-forming process. Ore Geology Reviews, 80, 1092-1110 <a href='https://doi.org/10.1016/j.oregeorev.2016.08.032'>[doi]</a>.
 
 ### Conference Abstracts
+`* Masters student`
 
-[35], T.F. Nachbar, A.M. Krzesinska, J. Paul, M. Ciocco, C.P. Conrad, 2027. Petrology of Martian Plume-Derived Rocks: Exploring 
+[35] T.F. Nachbar*, A.M. Krzesinska, J. Paul, M. Ciocco, C.P. Conrad, 2027. Petrology of Martian Plume-Derived Rocks: Exploring 
 Potential Mars Analogues in Different Tectonic Settings on Earth, Norwegian Geological Society Winter Conference 2027, Oslo.
 
 [34] J. Paul, C.P. Conrad, T.H. Torsvik, 2026. Gradual Craton Thickening Controls Increasing
